@@ -1,5 +1,5 @@
 ## GetFit
-GetFit is an Android mobile application that helps people get fit! It tracks your running workouts using GPS and the Google Mpas API. It can show you the duration of the run, the location of the run, and how many calories are burnt from the run.
+GetFit is an Android mobile application that helps people get fit! It tracks your running workouts using GPS and the Google Maps API. It can show you the duration of the run, the location of the run, and how many calories are burnt from the run.
 
 ## Record Workout
 The Record Workout Screen records how far and how long you've run. The distance is in km and the duration is in minutes. There is a map showing the current location as well has where you have run.
